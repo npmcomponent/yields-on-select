@@ -3,10 +3,10 @@
  * Dependencies
  */
 
-var selected = require('get-selected-text');
-var mod = require('modifier');
-var event = require('event');
-var raf = require('raf');
+var selected = require('yields-get-selected-text');
+var mod = require('bmcmahen-modifier');
+var event = require('component-event');
+var raf = require('component-raf');
 
 /**
  * Selection
